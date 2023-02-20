@@ -1,3 +1,5 @@
+# Homework 2
+
 Problem 1 (20pts)
 
 Let’s modernize LeNet as we did in the lectures. Implement and test the following changes over FashionMNIST
