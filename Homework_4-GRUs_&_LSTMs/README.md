@@ -18,11 +18,11 @@ In this homework, we focus on the language model we did in the lectures.
 This homework focuses on the Deep RNN problem we did in the lectures.
 
 ### Part A)
-Build the model by replacing the GRU with an LSTM and compare the training and validation loss, and the output sequence (try a few examples) against GRU.
+ - Build the model by replacing the GRU with an LSTM and compare the training and validation loss, and the output sequence (try a few examples) against GRU.
 
 ### Part B)
-Compare runtime for training and inference, computational and mode size complexities, and the output strings for nn.LSTM and rnn.GRU implementations with each other.
+ - Compare runtime for training and inference, computational and mode size complexities, and the output strings for nn.LSTM and rnn.GRU implementations with each other.
 
 ### Part C)
-Adjust the hyperparameters (fully connected network, number of hidden layers, and the number of hidden states) and compare your results (training and validation loss, computation complexity, model size, training and inference time, and the output sequence). Analyze their influence on accuracy, running time, and computational perplexity.
+ - Adjust the hyperparameters (fully connected network, number of hidden layers, and the number of hidden states) and compare your results (training and validation loss, computation complexity, model size, training and inference time, and the output sequence). Analyze their influence on accuracy, running time, and computational perplexity.
 
