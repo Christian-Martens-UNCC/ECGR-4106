@@ -12,6 +12,8 @@ C) Rerun the baseline experiment by replacing GRU with LSTM. Plot your results a
 
 ## Problem 2 (60pts)
 
-A) For the problem of Machine Translation with Bahdanau attention based sequence-to-sequence modeling
+For the problem of Machine Translation with Bahdanau attention based sequence-to-sequence modeling
 
-B) Explore the impacts of number of hidden layers starting tom 1 hidden layer up to 4 hidden layers. Plot the results (training loss and validation), also run few examples to do the qualitative comparison between these two. Can you draw the attention weight matrixes and compare them. Replace GRU with LSTM in the experiment. Perform training again. Plot the results (training loss and validation), also run few examples to do the qualitative comparison between these two. Can you draw the attention weight matrixes and compare them.
+A) Explore the impacts of number of hidden layers starting tom 1 hidden layer up to 4 hidden layers. Plot the results (training loss and validation), also run few examples to do the qualitative comparison between these two. Can you draw the attention weight matrixes and compare them. 
+
+B) Replace GRU with LSTM in the experiment. Perform training again. Plot the results (training loss and validation), also run few examples to do the qualitative comparison between these two. Can you draw the attention weight matrixes and compare them.
